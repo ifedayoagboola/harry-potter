@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/harry-potter/static/css/main.26eed2cc.chunk.css",
+    "main.js": "/harry-potter/static/js/main.411ff7ba.chunk.js",
+    "main.js.map": "/harry-potter/static/js/main.411ff7ba.chunk.js.map",
+    "runtime-main.js": "/harry-potter/static/js/runtime-main.85cce344.js",
+    "runtime-main.js.map": "/harry-potter/static/js/runtime-main.85cce344.js.map",
+    "static/js/2.3b48f255.chunk.js": "/harry-potter/static/js/2.3b48f255.chunk.js",
+    "static/js/2.3b48f255.chunk.js.map": "/harry-potter/static/js/2.3b48f255.chunk.js.map",
+    "index.html": "/harry-potter/index.html",
+    "precache-manifest.1a2640f5806276696b7c9c69b3fe33cd.js": "/harry-potter/precache-manifest.1a2640f5806276696b7c9c69b3fe33cd.js",
+    "service-worker.js": "/harry-potter/service-worker.js",
+    "static/css/main.26eed2cc.chunk.css.map": "/harry-potter/static/css/main.26eed2cc.chunk.css.map",
+    "static/js/2.3b48f255.chunk.js.LICENSE.txt": "/harry-potter/static/js/2.3b48f255.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85cce344.js",
+    "static/js/2.3b48f255.chunk.js",
+    "static/css/main.26eed2cc.chunk.css",
+    "static/js/main.411ff7ba.chunk.js"
+  ]
+}
